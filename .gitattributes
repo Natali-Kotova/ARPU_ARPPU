@@ -1,6 +1,1 @@
-Money.csv filter=lfs diff=lfs merge=lfs -text
-Cash.csv filter=lfs diff=lfs merge=lfs -text
-Cheaters.csv filter=lfs diff=lfs merge=lfs -text
-Platforms.csv filter=lfs diff=lfs merge=lfs -text
-ABgroup.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
